@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>main</Filter>
+    </ClCompile>
+    <ClCompile Include="Imgui\imgui_widgets.cpp">
+      <Filter>imgui\Cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="Imgui\imgui_impl_dx9.cpp">
+      <Filter>imgui\Cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="Imgui\imgui_draw.cpp">
+      <Filter>imgui\Cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="Imgui\imgui.cpp">
+      <Filter>imgui\Cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="Imgui\imgui_impl_win32.cpp">
+      <Filter>imgui\Cpp</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Utlis.h">
+      <Filter>Communication</Filter>
+    </ClInclude>
+    <ClInclude Include="Driver.h">
+      <Filter>Communication</Filter>
+    </ClInclude>
+    <ClInclude Include="features.h">
+      <Filter>main\Feature Defines</Filter>
+    </ClInclude>
+    <ClInclude Include="Includes.h">
+      <Filter>main\Other</Filter>
+    </ClInclude>
+    <ClInclude Include="offsets.h">
+      <Filter>main\Game Information</Filter>
+    </ClInclude>
+    <ClInclude Include="offset_defines.h">
+      <Filter>main\Game Information</Filter>
+    </ClInclude>
+    <ClInclude Include="Imgui\imconfig.h">
+      <Filter>imgui\h</Filter>
+    </ClInclude>
+    <ClInclude Include="Imgui\imgui.h">
+      <Filter>imgui\h</Filter>
+    </ClInclude>
+    <ClInclude Include="Imgui\imgui_impl_dx9.h">
+      <Filter>imgui\h</Filter>
+    </ClInclude>
+    <ClInclude Include="Imgui\imgui_impl_win32.h">
+      <Filter>imgui\h</Filter>
+    </ClInclude>
+    <ClInclude Include="Imgui\imgui_internal.h">
+      <Filter>imgui\h</Filter>
+    </ClInclude>
+    <ClInclude Include="Imgui\imstb_rectpack.h">
+      <Filter>imgui\h</Filter>
+    </ClInclude>
+    <ClInclude Include="Imgui\imstb_textedit.h">
+      <Filter>imgui\h</Filter>
+    </ClInclude>
+    <ClInclude Include="Imgui\imstb_truetype.h">
+      <Filter>imgui\h</Filter>
+    </ClInclude>
+    <ClInclude Include="imgui_custom_class.hpp">
+      <Filter>imgui\h</Filter>
+    </ClInclude>
+    <ClInclude Include="lazy.h">
+      <Filter>main\Other</Filter>
+    </ClInclude>
+    <ClInclude Include="Keybind.h">
+      <Filter>main\Other</Filter>
+    </ClInclude>
+    <ClInclude Include="win_utils.h">
+      <Filter>main\Other</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="imgui">
+      <UniqueIdentifier>{0c30b0ff-5fe0-490b-9db3-606f4ef0e174}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="main">
+      <UniqueIdentifier>{40a31907-a24b-4bef-a94d-7c7a23a3996e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="main\Feature Defines">
+      <UniqueIdentifier>{cb48cd17-f20e-4136-98d1-f23c3e00bd2b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="main\Other">
+      <UniqueIdentifier>{7d192680-027b-4cb2-987e-61691685922a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="main\Game Information">
+      <UniqueIdentifier>{8e528cfb-7a47-48fa-a000-f881b01be930}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="imgui\Cpp">
+      <UniqueIdentifier>{0c0c2a28-5c9d-4a0b-a77e-b4ad51622798}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="imgui\h">
+      <UniqueIdentifier>{4381858b-e2e7-468e-b3b3-af143d0185ca}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Communication">
+      <UniqueIdentifier>{8af8f2b1-b876-4704-bab5-f77d6d8f6971}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

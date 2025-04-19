@@ -1,0 +1,311 @@
+﻿  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_dx9.cpp
+  imgui_impl_win32.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  main.cpp
+C:\Users\Matthew\Desktop\Zen Base\driver\driver.h(68,44): warning C4838: conversion from 'INT32' to 'uint32_t' requires a narrowing conversion
+  (compiling source file 'main.cpp')
+  
+C:\Users\Matthew\Desktop\Zen Base\game\includes\xor.hpp(211,22): warning C4244: 'return': conversion from 'int' to 'char', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Matthew\Desktop\Zen Base\game\includes\utils.h(184,67): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Matthew\Desktop\Zen Base\game\includes\utils.h(184,88): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Matthew\Desktop\Zen Base\game\includes\utils.h(184,109): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Matthew\Desktop\Zen Base\game\includes\utils.h(233,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Matthew\Desktop\Zen Base\game\includes\utils.h(234,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Matthew\Desktop\Zen Base\game\includes\utils.h(235,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Matthew\Desktop\Zen Base\game\includes\utils.h(236,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Matthew\Desktop\Zen Base\game\includes\utils.h(237,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Matthew\Desktop\Zen Base\game\includes\utils.h(238,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Matthew\Desktop\Zen Base\game\includes\utils.h(239,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Matthew\Desktop\Zen Base\game\includes\utils.h(240,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Matthew\Desktop\Zen Base\game\includes\utils.h(241,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Matthew\Desktop\Zen Base\game\includes\utils.h(242,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Matthew\Desktop\Zen Base\game\includes\utils.h(243,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Matthew\Desktop\Zen Base\game\includes\utils.h(244,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Matthew\Desktop\Zen Base\game\includes\utils.h(277,58): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Matthew\Desktop\Zen Base\game\features\esp\drawing.h(3,167): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Matthew\Desktop\Zen Base\game\features\esp\drawing.h(3,149): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Matthew\Desktop\Zen Base\game\features\esp\drawing.h(3,131): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Matthew\Desktop\Zen Base\game\features\esp\drawing.h(3,113): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Matthew\Desktop\Zen Base\game\features\esp\drawing.h(3,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Matthew\Desktop\Zen Base\game\features\esp\drawing.h(3,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Matthew\Desktop\Zen Base\game\features\esp\drawing.h(3,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Matthew\Desktop\Zen Base\game\features\esp\drawing.h(10,113): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Matthew\Desktop\Zen Base\game\features\esp\drawing.h(11,89): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Matthew\Desktop\Zen Base\game\features\esp\drawing.h(15,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Matthew\Desktop\Zen Base\game\features\esp\drawing.h(16,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Matthew\Desktop\Zen Base\game\features\esp\drawing.h(17,105): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Matthew\Desktop\Zen Base\game\features\esp\drawing.h(17,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Matthew\Desktop\Zen Base\game\features\esp\drawing.h(17,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Matthew\Desktop\Zen Base\game\features\esp\drawing.h(17,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Matthew\Desktop\Zen Base\game\features\esp\drawing.h(18,105): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Matthew\Desktop\Zen Base\game\features\esp\drawing.h(18,74): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Matthew\Desktop\Zen Base\game\features\esp\drawing.h(18,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Matthew\Desktop\Zen Base\game\features\esp\drawing.h(18,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Matthew\Desktop\Zen Base\game\features\esp\drawing.h(19,113): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Matthew\Desktop\Zen Base\game\features\esp\drawing.h(19,82): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Matthew\Desktop\Zen Base\game\features\esp\drawing.h(19,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Matthew\Desktop\Zen Base\game\features\esp\drawing.h(19,64): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Matthew\Desktop\Zen Base\game\features\esp\drawing.h(20,113): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Matthew\Desktop\Zen Base\game\features\esp\drawing.h(20,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Matthew\Desktop\Zen Base\game\features\esp\drawing.h(20,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Matthew\Desktop\Zen Base\game\features\esp\drawing.h(20,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Matthew\Desktop\Zen Base\game\features\esp\drawing.h(21,113): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Matthew\Desktop\Zen Base\game\features\esp\drawing.h(21,80): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Matthew\Desktop\Zen Base\game\features\esp\drawing.h(21,75): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Matthew\Desktop\Zen Base\game\features\esp\drawing.h(21,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Matthew\Desktop\Zen Base\game\features\esp\drawing.h(22,113): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Matthew\Desktop\Zen Base\game\features\esp\drawing.h(22,80): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Matthew\Desktop\Zen Base\game\features\esp\drawing.h(22,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Matthew\Desktop\Zen Base\game\features\esp\drawing.h(22,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Matthew\Desktop\Zen Base\game\features\esp\drawing.h(23,121): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Matthew\Desktop\Zen Base\game\features\esp\drawing.h(23,88): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Matthew\Desktop\Zen Base\game\features\esp\drawing.h(23,81): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Matthew\Desktop\Zen Base\game\features\esp\drawing.h(23,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Matthew\Desktop\Zen Base\game\features\esp\drawing.h(24,121): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Matthew\Desktop\Zen Base\game\features\esp\drawing.h(24,88): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Matthew\Desktop\Zen Base\game\features\esp\drawing.h(24,81): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Matthew\Desktop\Zen Base\game\features\esp\drawing.h(24,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Matthew\Desktop\Zen Base\game\informations\w2s.h(3,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Matthew\Desktop\Zen Base\game\informations\w2s.h(4,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Matthew\Desktop\Zen Base\game\informations\w2s.h(5,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Matthew\Desktop\Zen Base\game\informations\w2s.h(25,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Matthew\Desktop\Zen Base\game\informations\w2s.h(26,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Matthew\Desktop\Zen Base\game\informations\w2s.h(27,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Matthew\Desktop\Zen Base\game\informations\w2s.h(75,115): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Matthew\Desktop\Zen Base\game\informations\w2s.h(75,237): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Matthew\Desktop\Zen Base\game\features\esp\skeleton.h(18,70): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Matthew\Desktop\Zen Base\game\features\esp\skeleton.h(18,41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Matthew\Desktop\Zen Base\game\features\esp\skeleton.h(19,70): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Matthew\Desktop\Zen Base\game\features\esp\skeleton.h(19,40): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Matthew\Desktop\Zen Base\Imgui\InitializeImGui.h(40,13): warning C4189: 'colors': local variable is initialized but not referenced
+  (compiling source file 'main.cpp')
+  
+C:\Users\Matthew\Desktop\Zen Base\game\includes\keybinds.h(7,9): warning C4005: 'IM_ARRAYSIZE': macro redefinition
+  (compiling source file 'main.cpp')
+      C:\Users\Matthew\Desktop\Zen Base\Imgui\imgui.h(94,9):
+      see previous definition of 'IM_ARRAYSIZE'
+  
+C:\Users\Matthew\Desktop\Zen Base\game\includes\keybinds.h(55,22): warning C4100: 'blank': unreferenced formal parameter
+  (compiling source file 'main.cpp')
+  
+C:\Users\Matthew\Desktop\Zen Base\game\includes\keybinds.h(71,24): warning C4100: 'blank': unreferenced formal parameter
+  (compiling source file 'main.cpp')
+  
+C:\Users\Matthew\Desktop\Zen Base\game\includes\keybinds.h(87,25): warning C4100: 'blank': unreferenced formal parameter
+  (compiling source file 'main.cpp')
+  
+C:\Users\Matthew\Desktop\Zen Base\game\includes\keybinds.h(103,23): warning C4100: 'blank': unreferenced formal parameter
+  (compiling source file 'main.cpp')
+  
+C:\Users\Matthew\Desktop\Zen Base\game\includes\keybinds.h(119,26): warning C4100: 'blank': unreferenced formal parameter
+  (compiling source file 'main.cpp')
+  
+C:\Users\Matthew\Desktop\Zen Base\game\includes\keybinds.h(785,14): warning C4459: declaration of 'aimkeys' hides global declaration
+  (compiling source file 'main.cpp')
+      C:\Users\Matthew\Desktop\Zen Base\game\includes\utils.h(31,20):
+      see declaration of 'aimkeys'
+  
+C:\Users\Matthew\Desktop\Zen Base\game\features\aimbot\aimbot.h(16,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Matthew\Desktop\Zen Base\game\features\aimbot\aimbot.h(24,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Matthew\Desktop\Zen Base\game\features\aimbot\aimbot.h(50,67): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Matthew\Desktop\Zen Base\game\features\aimbot\aimbot.h(51,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Matthew\Desktop\Zen Base\game\features\aimbot\aimbot.h(51,18): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Matthew\Desktop\Zen Base\ImGui\imgui_internal.h(3396,83): warning C4459: declaration of 'tab' hides global declaration
+  (compiling source file 'main.cpp')
+      C:\Users\Matthew\Desktop\Zen Base\menu.hpp(1,12):
+      see declaration of 'tab'
+  
+C:\Users\Matthew\Desktop\Zen Base\main.cpp(127,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Matthew\Desktop\Zen Base\main.cpp(128,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Matthew\Desktop\Zen Base\main.cpp(129,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Matthew\Desktop\Zen Base\main.cpp(133,30): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Matthew\Desktop\Zen Base\main.cpp(143,99): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Matthew\Desktop\Zen Base\main.cpp(143,73): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Matthew\Desktop\Zen Base\main.cpp(143,60): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Matthew\Desktop\Zen Base\main.cpp(143,56): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Matthew\Desktop\Zen Base\main.cpp(143,29): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Matthew\Desktop\Zen Base\main.cpp(149,91): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Matthew\Desktop\Zen Base\main.cpp(149,48): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Matthew\Desktop\Zen Base\main.cpp(149,21): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Matthew\Desktop\Zen Base\main.cpp(157,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Matthew\Desktop\Zen Base\main.cpp(158,70): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Matthew\Desktop\Zen Base\main.cpp(164,123): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Matthew\Desktop\Zen Base\main.cpp(164,111): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Matthew\Desktop\Zen Base\main.cpp(164,88): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Matthew\Desktop\Zen Base\main.cpp(164,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Matthew\Desktop\Zen Base\game\includes\xor.hpp(224,33): warning C4244: '=': conversion from 'int' to 'char', possible loss of data
+  (compiling source file 'main.cpp')
+      C:\Users\Matthew\Desktop\Zen Base\game\includes\xor.hpp(224,33):
+      the template instantiation context (the oldest one first) is
+          C:\Users\Matthew\Desktop\Zen Base\main.cpp(65,3):
+          see reference to class template instantiation 'CXorString<IndexList<0,1,2,3,4,5,6,7,8,9>>' being compiled
+          C:\Users\Matthew\Desktop\Zen Base\game\includes\xor.hpp(222,11):
+          while compiling class template member function 'char *CXorString<IndexList<0,1,2,3,4,5,6,7,8,9>>::decrypt(void)'
+              C:\Users\Matthew\Desktop\Zen Base\main.cpp(66,8):
+              see the first reference to 'CXorString<IndexList<0,1,2,3,4,5,6,7,8,9>>::decrypt' in 'main'
+  
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\Matthew\Desktop\Zen Base\main.cpp(239): warning C4700: uninitialized local variable 'Message' used
+C:\Users\Matthew\Desktop\Zen Base\main.cpp(272): warning C4700: uninitialized local variable 'old_rc' used
+  All 1961 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  base.vcxproj -> C:\Users\Matthew\Desktop\Zen Base\x64\Release\ZenBase.exe
