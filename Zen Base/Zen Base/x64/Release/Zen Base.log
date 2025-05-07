@@ -1,0 +1,6 @@
+﻿  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+C:\Users\Matthew\Desktop\Zen Base\Zen Base\main\game.hpp(51): warning C4715: 'directx_init': not all control paths return a value
+  All 2238 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Zen Base.vcxproj -> C:\Users\Matthew\Desktop\Zen Base\x64\Release\Zen Base.exe
